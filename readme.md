@@ -21,7 +21,7 @@ download CodeBlocks IDE From https://sourceforge.net/projects/codeblocks/
 6- C Program to print Hexa of a number
 
 7- C Program to compute Quotient and Remainder
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 # Assignment 2
 ## Answer the following questions:
 --------------------------------
@@ -62,7 +62,7 @@ COORD coord={0,0};                   // this is global variable
    coord.Y=y;
    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coord);
  }
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 Answer the following questions:
 --------------------------------
 
@@ -73,7 +73,7 @@ Answer the following questions:
 ## 3- C Program to add two matrix and put the result in a third one, then print the result.
 
 ## 4- C Program to find Sum & Average of 2D Array.
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 # Assignment 4
 Answer the following questions:
 --------------------------------
@@ -126,7 +126,7 @@ void SetColor(int ForgC)
     }
     return;
 }
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 # Assignment 5
 ## Answer the following questions:
 --------------------------------
@@ -151,7 +151,7 @@ void SetColor(int ForgC)
 ------------------------------------------------
 
 5- C Program to Calculate Difference Between Two Time Period (Time_struct)
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 # Assignment 6
 Answer the following questions:
 --------------------------------
@@ -173,7 +173,7 @@ Answer the following questions:
 ## 4. C Program that asks the user for number of Lines he want "line is a struct, each line have 2 points", 
 	then displays length of each one.(Dynamic Allocation of 1D Array of objects)
 
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+------------------------------------------------
 # Assignment 7
 
 Answer the following questions:
