@@ -52,7 +52,7 @@ E => failed
 9- C Program to display "MagicBox"
 
 function of x and y
--------------------
+
 #include<windows.h>
 
 COORD coord={0,0};                   // this is global variable
@@ -63,40 +63,45 @@ COORD coord={0,0};                   // this is global variable
    coord.Y=y;
    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coord);
  }
+ 
 ------------------------------------------------
 Answer the following questions:
+
 --------------------------------
 
-## 1- C Program to take an array elements from user, then print them out. (Print Array)
+1- C Program to take an array elements from user, then print them out. (Print Array)
 
-## 2- C Program to find the maximum value of array elements. (Max Array)
+2- C Program to find the maximum value of array elements. (Max Array)
 
-## 3- C Program to add two matrix and put the result in a third one, then print the result.
+3- C Program to add two matrix and put the result in a third one, then print the result.
 
-## 4- C Program to find Sum & Average of 2D Array.
+4- C Program to find Sum & Average of 2D Array.
+
 ------------------------------------------------
 # Assignment 4
+
 Answer the following questions:
+
 --------------------------------
 
-## 1- C Program to take firstName and lastName from user, then displays fullName.
+1- C Program to take firstName and lastName from user, then displays fullName.
 
-## 2- C Program to Find the Frequency of Characters in a String
+2- C Program to Find the Frequency of Characters in a String
 
-## 3- C Program to take char and displays if it is "Normal or Extended key" along with its Ascii value.
+3- C Program to take char and displays if it is "Normal or Extended key" along with its Ascii value.
  
-## 4- New Colored Menu "with Arrows"
+4- New Colored Menu "with Arrows"
 
 
 
-# Answer "as much as you can" from the following:
+Answer "as much as you can" from the following:
 ------------------------------------------------
 
-## 5- C Program to Copy String Without Using strcpy()
+5- C Program to Copy String Without Using strcpy()
 
-## 6- C Program to Find the Length of a String without Using strlen()
+6- C Program to Find the Length of a String without Using strlen()
 
-## 7- C Program to Remove all Characters in a String Except Alphabet
+7- C Program to Remove all Characters in a String Except Alphabet
 
 
 ------------------------------------------------------------------------------
@@ -127,6 +132,7 @@ void SetColor(int ForgC)
     }
     return;
 }
+
 ------------------------------------------------
 # Assignment 5
 ## Answer the following questions:
@@ -148,30 +154,32 @@ void SetColor(int ForgC)
 
 
 
-## Answer "as much as you can" from the following:
+Answer "as much as you can" from the following:
 ------------------------------------------------
 
 5- C Program to Calculate Difference Between Two Time Period (Time_struct)
+
 ------------------------------------------------
 # Assignment 6
 Answer the following questions:
+
 --------------------------------
 
-## 1. C Program to swap 2 integer values. (Swap function, calling by address)
+1. C Program to swap 2 integer values. (Swap function, calling by address)
 
 
-## 2. C Program that takes an array of integers and pass that array to a function to print array values after multiplying them to 10. 
+2. C Program that takes an array of integers and pass that array to a function to print array values after multiplying them to 10. 
 	(try to use "Array Notation" and "Pointer notation")
 	
 
 
-## 3. C Program have a function changes the position of the first point of a given line struct "each line have 2 points", 
+3. C Program have a function changes the position of the first point of a given line struct "each line have 2 points", 
 	then inside main displays the new coordinates along with line Length. (Pointer to struct)
    	function prototype should be like: 
 		void change_Position(struct line *L, int newX, int newY)
 
 
-## 4. C Program that asks the user for number of Lines he want "line is a struct, each line have 2 points", 
+4. C Program that asks the user for number of Lines he want "line is a struct, each line have 2 points", 
 	then displays length of each one.(Dynamic Allocation of 1D Array of objects)
 
 ------------------------------------------------
@@ -181,9 +189,9 @@ Answer the following questions:
 --------------------------------
 
 
-## 1. C Program that has Array of pointers to struct Employee. (Array of pointers to struct) Array size is 3.
+1. C Program that has Array of pointers to struct Employee. (Array of pointers to struct) Array size is 3.
 
-## 2. C Program to calculate sum of student degrees, and average of each subject, asks the user for students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer)
+2. C Program to calculate sum of student degrees, and average of each subject, asks the user for students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer)
 
 
 
